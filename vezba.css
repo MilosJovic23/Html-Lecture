@@ -1,0 +1,18 @@
+.slika {
+	width: 350px;
+	padding: 0px 0px 20px 0px;
+	margin: 10px 0px;
+	background-color: rgb(237, 237, 237);
+	border: solid rgb(185, 185, 185);
+}
+.dugmeBoja {
+	background-color: rgb(0, 0, 0);
+	color: white;
+	padding: 8px 50px 8px 50px;
+}
+.tekstPoravnanje {
+	text-align: center;
+}
+.product {
+	display: inline-block;
+}
